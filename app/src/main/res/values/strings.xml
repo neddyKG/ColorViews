@@ -8,5 +8,7 @@
     <string name="button_red">RED</string>
     <string name="button_yellow">YELLOW</string>
     <string name="button_green">GREEN</string>
-    <string name="title_text">Pick any part of the screen to color it!</string>
+    <string name="title">Color Game</string>
+    <string name="instructions_title">How to play:</string>
+    <string name="instructions">Tap on the screen and buttons.</string>
 </resources>
